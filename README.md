@@ -10,7 +10,7 @@
 
 
 <details>
-  <p align="center"><summary><b>:telescope: 2021 goal</b></summary>
+  <summary><b>:telescope: 2021 goal</b></summary>
   I want to learn all I can about data science and especialize my self on data visualisation.<br>
-  <p align="center">I'm currently studying a profesional certificate from HarvardX powered on edX, which is an awesome instance for my profesional growth 
+  I'm currently studying a profesional certificate from HarvardX powered on edX, which is an awesome instance for my profesional growth 
 </details>
